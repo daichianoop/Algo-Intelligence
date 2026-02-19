@@ -189,7 +189,7 @@ export default function EightPuzzle() {
                 {/* Right Column: Stats */}
                 <div className="space-y-6">
                     <div className="bg-neutral-900 rounded-3xl p-8 border border-neutral-800">
-                        <h2 className="text-2xl font-bold mb-6 text-emerald-400">Heuristics Monitor</h2>
+                        <h2 className="text-2xl font-bold mb-6 text-emerald-400">Heuristics Monitor h(n)</h2>
 
                         <div className="space-y-6">
                             <div>
